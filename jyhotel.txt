@@ -1,3 +1,4 @@
+央视,#genren#
 CCTV1综合高清,http://jylt.jdshipin.com:808/hls/101/index.m3u8
 CCTV2财经高清,http://jylt.jdshipin.com:808/hls/102/index.m3u8
 CCTV3综艺高清,http://jylt.jdshipin.com:808/hls/3/index.m3u8
