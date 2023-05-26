@@ -1,6 +1,6 @@
 港澳台,#genre#
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台，https://pull-l3-cny.douyincdn.com/live/YesLiveTV-23065d30-ee6a-457f-8901-318ed875c388.m3u8?by=Acloudtwei
+翡翠台1,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台2，https://pull-l3-cny.douyincdn.com/live/YesLiveTV-23065d30-ee6a-457f-8901-318ed875c388.m3u8?by=Acloudtwei
 翡翠台HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
 翡翠台HD,http://php.733240.com/hk/hk.php?id=1
 翡翠台HD临时,http://php.733240.com/hk/hk.php?id=1
