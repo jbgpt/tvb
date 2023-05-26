@@ -1,10 +1,16 @@
 港澳台,#genre#
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台，https://pull-l3-cny.douyincdn.com/live/YesLiveTV-23065d30-ee6a-457f-8901-318ed875c388.m3u8?by=Acloudtwei
 翡翠台HD,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
 翡翠台HD,http://php.733240.com/hk/hk.php?id=1
 翡翠台HD临时,http://php.733240.com/hk/hk.php?id=1
 翡翠台HD临时,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
 翡翠台 临时,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
-纬来体育台,http://php.733240.com/hk/hk.php?id=6
+华语台,https://dispatch.ulivetv.net/v/live/ciw8gobsylds.m3u8?stream_id=ciw8gobsylds&timestamp=1684999446&rand=ddzF84fq5A&uuid=9b647b3816b2a66a&from=web&sign=f00344c290308a2f68a8f07017e47375
+华语台,https://dispatch.ulivetv.net/v/live/ciw8gb4fs8g0.m3u8?stream_id=ciw8gb4fs8g0&timestamp=1684980748&rand=ujyi53X0T8&uuid=9b647b3816b2a66a&from=web&sign=2ba0da5a5d165ca2ab5a36b4b30febef
+财经台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-43889b82-39d5-4f1a-a4e6-6bbb20f3c94b.m3u8
+nhk华语台,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
+纬来体育台,https://dispatch.ulivetv.net/v/live/cg1mbnhpe0u8.m3u8?stream_id=cg1mbnhpe0u8&timestamp=1685058794&rand=EzSh3JUdCU&uuid=9b647b3816b2a66a&from=web&sign=af58e0d44b8413153a3adf6591ba9c1b
 环球电视台,http://php.733240.com/hk/hk.php?id=7
 无线新闻,http://php.733240.com/hk/hk.php?id=8
 耀才财经,http://php.733240.com/hk/hk.php?id=8
