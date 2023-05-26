@@ -98,7 +98,7 @@ TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 青海卫视,http://jylt.jdshipin.com:808/hls/162/index.m3u8
 宁夏卫视,udp://239.3.3.140:10001
 宁夏卫视,http://jylt.jdshipin.com:808/hls/140/index.m3u8
-mitv,#gengr#
+mitv,#genre#
 Nick Jr.,mitv://135.148.104.228:19806/05c5813e22bf4475b416ec1b35280aa3
 Boomerang,mitv://135.148.104.228:19806/317cf636b2d448d0867cc1f976064d8a
 Animax,mitv://135.148.104.228:19806/09993190594140d3a87996691fdea68c
