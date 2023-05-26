@@ -98,6 +98,13 @@ TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 青海卫视,http://jylt.jdshipin.com:808/hls/162/index.m3u8
 宁夏卫视,udp://239.3.3.140:10001
 宁夏卫视,http://jylt.jdshipin.com:808/hls/140/index.m3u8
+mitv,#gengr#
+Nick Jr.,mitv://135.148.104.228:19806/05c5813e22bf4475b416ec1b35280aa3
+Boomerang,mitv://135.148.104.228:19806/317cf636b2d448d0867cc1f976064d8a
+Animax,mitv://135.148.104.228:19806/09993190594140d3a87996691fdea68c
+尼克儿童频道,mitv://135.148.104.228:19806/73d77b0470724ad4a8dadc3854881cda
+靖洋卡通Nice Bingo,mitv://135.148.104.228:19806/9c0a957495a044c78942d4d7adb54662
+靖天卡通台,mitv://135.148.104.228:19806/31373da9de144c1fbe1f505bcaa978aa
 代理,#genre#
 鳳凰衛視資訊台,http://awei.beimua.com/yes.php?id=2
 無綫財經·體育·資訊台,http://awei.beimua.com/yes.php?id=12
