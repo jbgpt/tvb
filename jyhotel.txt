@@ -17,7 +17,7 @@ CCTV14少儿高清,http://jylt.jdshipin.com:808/hls/114/index.m3u8
 CCTV15音乐,http://jylt.jdshipin.com:808/hls/115/index.m3u8
 CCTV5+体育赛事高清,http://jylt.jdshipin.com:808/hls/30/index.m3u8
 CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
-卫视,#genre#
+广东区卫视,#genre#
 广东卫视高清,http://jylt.jdshipin.com:808/hls/121/index.m3u8
 广东体育高清,http://jylt.jdshipin.com:808/hls/22/index.m3u8
 广东新闻,http://jylt.jdshipin.com:808/hls/124/index.m3u8
@@ -29,6 +29,8 @@ CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
 广东公共,http://jylt.jdshipin.com:808/hls/148/index.m3u8
 大湾区卫视,http://jylt.jdshipin.com:808/hls/67/index.m3u8
 深圳卫视高清,http://jylt.jdshipin.com:808/hls/125/index.m3u8
+广东综艺4K,http://jylt.jdshipin.com:808/hls/999/index.m3u8
+卫视,#genre#
 湖南卫视高清,http://jylt.jdshipin.com:808/hls/126/index.m3u8
 江苏卫视高清,http://jylt.jdshipin.com:808/hls/130/index.m3u8
 北京卫视高清,http://jylt.jdshipin.com:808/hls/153/index.m3u8
@@ -46,7 +48,7 @@ CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
 潮州综合,http://jylt.jdshipin.com:808/hls/20/index.m3u8
 揭阳公共,http://jylt.jdshipin.com:808/hls/18/index.m3u8
 揭西高清,http://jylt.jdshipin.com:808/hls/27/index.m3u8
-港澳台，#genre#
+港澳台,#genre#
 凤凰香港,http://jylt.jdshipin.com:808/hls/81/index.m3u8
 凤凰中文,http://jylt.jdshipin.com:808/hls/29/index.m3u8
 凤凰资讯,http://jylt.jdshipin.com:808/hls/28/index.m3u8
@@ -57,8 +59,10 @@ CCTV17农村农业,http://jylt.jdshipin.com:808/hls/117/index.m3u8
 龙祥电影,http://jylt.jdshipin.com:808/hls/35/index.m3u8
 TVB1本港台,http://jylt.jdshipin.com:808/hls/86/index.m3u8
 TVB2翡翠,http://jylt.jdshipin.com:808/hls/25/index.m3u8
+东森电影台,http://jylt.jdshipin.com:808/hls/32/index.m3u8
+东森洋片台,http://jylt.jdshipin.com:808/hls/33/index.m3u8
 TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
-卫视2，#genre#
+卫视2,#genre#
 潮州戏剧,http://jylt.jdshipin.com:808/hls/84/index.m3u8
 广西卫视高清,http://jylt.jdshipin.com:808/hls/167/index.m3u8
 星空卫视,http://jylt.jdshipin.com:808/hls/79/index.m3u8
@@ -94,4 +98,4 @@ TVB3明珠,http://jylt.jdshipin.com:808/hls/26/index.m3u8
 青海卫视,http://jylt.jdshipin.com:808/hls/162/index.m3u8
 宁夏卫视,udp://239.3.3.140:10001
 宁夏卫视,http://jylt.jdshipin.com:808/hls/140/index.m3u8
-广东综艺4K,http://jylt.jdshipin.com:808/hls/999/index.m3u8
+
