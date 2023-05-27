@@ -1,4 +1,5 @@
 now,#genre#
+高清翡翠,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206
 翡翠,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
 Now新闻台,http://pull-l3-cny.douyincdn.com/live/cc9a7a9fedf148a0549228ec2843f831.flv
 Now直播台,http://pull-l3-cny.douyincdn.com/live/f0a78b80abbcffcdfd3c0a135adc4907.flv
