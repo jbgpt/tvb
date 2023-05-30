@@ -17,6 +17,17 @@ CINEMAX,http://pull-l3-cny.douyincdn.com/live/adf8ece5ecf61b54e59fa841b86babe8.f
 糖豆影视,https://hw-adaptive.pull.yximgs.com/gifshow/lbwDirdXS54_mabsg750.flv?hwTime=6474485e&hwSecret=bfed4d281070d954d8de65146b80f562&tsc=origin&highTraffic=1&oidc=watchmen&sidc=alihb&fd=1&ss=s20&kabr_spts=-5000
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+印度-Zee News台,https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+泰国ASTV News 1台,http://news1.live14.com/stream/news1_hi.m3u8
+TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+香港无线新闻台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5758e851-5827-4fec-3328-e360f1da0ac8.m3u8
+香港 TVBRICS台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+台湾TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+美国NBA TV电视台,http://2hubs.ddns.net:25461/BabNour/telegrramm/62042
+Fox Soul,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 旺旺,#genre#
 日本24小时新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
