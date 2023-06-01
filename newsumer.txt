@@ -1,6 +1,6 @@
 now,#genre#
 早期教育 标清[720x576,
-https://epg.pw/stream/9506034284e09bb2a430b3573cadb8138fd608d73ed1fd8b9ea4307b19890090.
+https://epg.pw/stream/9506034284e09bb2a430b3573cadb8138fd608d73ed1fd8b9ea4307b19890090.ctv.
 Now新闻台,http://pull-l3-cny.douyincdn.com/live/cc9a7a9fedf148a0549228ec2843f831.m3u8
 翡翠,http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
 新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
