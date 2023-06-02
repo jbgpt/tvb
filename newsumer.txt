@@ -1,4 +1,5 @@
 now,#genre#
+河北农民,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
 央视时尚 标清[720x576,
 https://epg.pw/stream/fe8b30a1c7e5156f844801fd71e5df52d089e315fb1ee961c73f7cbd8e6d57bf.m3u8.
 Now新闻台,http://pull-l3-cny.douyincdn.com/live/cc9a7a9fedf148a0549228ec2843f831.m3u8
